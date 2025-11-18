@@ -2,7 +2,9 @@
 
 **SecureVault** is a digital locker system that provides military-grade security for your important documents and files. 
 Built with AES-256 encryption and multi-factor authentication, it functions as your personal digital vault with seamless cross-device accessibility. 
-The platform features drag-and-drop file management, AI-powered organization, and serves individuals, freelancers, and businesses with bank-level security and user-friendly design.
+The platform features drag-and-drop file management, flexible organization, and serves individuals, freelancers, and businesses with bank-level security and user-friendly design.
+
+---
 
 ##  Features
 
@@ -15,6 +17,8 @@ The platform features drag-and-drop file management, AI-powered organization, an
 -  **Cross-Platform Access** - Access your vault from any device, anywhere
 -  **Advanced Search** - Lightning-fast file search and organization
 -  **Activity Tracking** - Comprehensive audit logs and file history
+
+---
 
 ## Tech Stack
 
@@ -38,14 +42,21 @@ The platform features drag-and-drop file management, AI-powered organization, an
 - AES-256 file encryption
 - Secure password hashing with bcrypt
 
+---
+
 ## 📸 Screenshots
 
 <p align="center">
-<img src="reactapp/public/videos/image5.png" alt="App Screenshot" width="200"/> 
-<img src="https://github.com/yugeshkanna03yuvasri/Food-App/blob/master/app/src/main/res/drawable/f2.jpg" alt="App Screenshot" width="200"/> 
-<img src="https://github.com/yugeshkanna03yuvasri/Food-App/blob/master/app/src/main/res/drawable/f3.jpg" alt="App Screenshot" width="200"/> 
-<img src="https://github.com/yugeshkanna03yuvasri/Food-App/blob/master/app/src/main/res/drawable/f4.jpg" alt="App Screenshot" width="200"/> 
+<img src="reactapp/public/videos/image5.png" alt="App Screenshot" height="400" width="300" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;"/> 
+<img src="reactapp/public/videos/Image1.png" alt="App Screenshot" height="400" width="300" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;"/> 
 </p>
+
+<p align="center">
+<img src="reactapp/public/videos/Image2.png" alt="App Screenshot" height="400" width="300" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;"/> 
+<img src="reactapp/public/videos/image 6.png" alt="App Screenshot" height="400" width="300" style="border: 2px solid #ddd; border-radius: 8px; margin: 10px;"/> 
+</p>
+
+---
 
 ## 🚀 Getting Started
 
@@ -86,6 +97,8 @@ The platform features drag-and-drop file management, AI-powered organization, an
 
 6. Default Admin Credential
    Admin Password for Login :  SECUREVAULT2024
+
+---
 
 ## Authors
 
