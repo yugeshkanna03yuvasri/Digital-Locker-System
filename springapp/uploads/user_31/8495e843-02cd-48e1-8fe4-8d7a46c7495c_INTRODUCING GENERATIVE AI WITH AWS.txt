@@ -1,0 +1,65 @@
+INTRODUCING GENERATIVE AI WITH AWS:
+
+1.Eliza is a computer program developed in the mid-1960s by Joseph Weizenbaum at MIT.
+2.It was one of the earliest attempts to simulate human conversation using natural language processing (NLP). 
+3.ELIZA employed pattern-matching and substitution rules to engage users in a conversational exchange, giving the illusion of understanding, but lacking any true comprehension of the meaning of the text.
+
+Artificial Intelligence :
+Making the computer to think like human and respond . That is we are trying to give the human intelligence into a machine called artificial intelligence . It can process the large amount of data and make informed decisions or make predictions based on the learnings.
+
+
+Machine Learning (ML):
+ A subset of AI, it involves training computers to learn from data and improve over time.
+Data Points: Individual pieces of information processed for decision-making.
+Certainty: The level of confidence in making a decision based on processed information.
+
+KEY POINTS:
+1.ML can process the large amount of data. The data can be images , text , pixels , numbers
+2.The code we are writing to process the data is called machine learning algorithm.
+3. Algorithm plus how it process the data is called ml model.
+4.Iteration - The cycle of tweaking algorithms and data, coupled with re-training, aiming to uplift model performance.
+
+Types of machine learning:
+1.Supervised learning : The models learn from the labelled data set and make predictions according to that . ex: object recognition
+2.Unsupervised learning:  The models learn from unlabelled dataset . That is it learns from large amount of data and finds the pattern on its own . ex: Pattern recognition
+3.Reinforcement learning: The learning is based on the interactions with the environment . ex: self driving cars
+
+Jupyter Notebook:
+it is an interactive programming tool that allows you to write and run Python code in sections called cells. This makes it a great environment for experimenting with AI applications, machine learning, and data analysis.
+
+MACHINE LEARNING APPROACH:
+1.Structured data :Data that is organized and stored in a predefined format (rows & columns). It is easy for machines and humans to search and analyze.
+2.Unstructured data: Data that does not have a predefined structure. It’s raw, irregular, and harder for machines to analyze without processing.
+
+**both supervised and unsupervised learning can use both structured and unstructured data.*
+
+
+
+Traditional Machine Learning
+Decision Trees - Flowchart-like structures aiding in decision-making based on data features.
+Regression Algorithms - Useful for predicting numerical values by modeling relationships between variables.
+Clustering Algorithms - Group data into clusters based on similarity, aiding in data segmentation and categorization.
+
+Deep Learning
+Artificial Neural Networks - Inspired by the human brain, these networks excel in processing huge amounts of data and learning patterns from it.
+Convolutional Neural Networks (CNNs) - Specialized for vision tasks, preserving spatial context of images.
+Recurrent Neural Networks (RNNs) - Efficient for sequential data, aiding in tasks like predictive text.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
